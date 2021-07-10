@@ -1,0 +1,14 @@
+body{
+    background-color: beige;
+    
+    text-align: center;
+}
+.text{
+    font-size: 40px;
+}
+.btn{
+    background-color: pink;
+    width: 100px;
+    height: 25px;
+    border-radius: 12px;
+}
